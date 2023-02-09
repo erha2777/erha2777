@@ -15,3 +15,5 @@
     </tr>
   </table>
 </a>
+
+[![](https://count.getloli.com/get/@JindaiKirin?theme=moebooru)](https://github.com/erha2777)
