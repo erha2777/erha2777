@@ -1,6 +1,6 @@
 
 
-[![](bg.jpg)](https://erha2777.github.io)
+[![](https://github.com/erha2777/public/blob/main/images/DSC_0635.JPG)](https://erha2777.github.io)
 
 
 <a href="https://github.com/erha2777">
